@@ -30,7 +30,6 @@ where check_in_date = "3092023";
 
 -- So the person's id is 184448 
 
--- Feeling like ACP PRADYUMAN
 
 select * from interviews
 where person_id = "184448";
@@ -64,4 +63,4 @@ select name from accused_person
 where person_id = "541190";
 
 -- So main culprit is Shabnam AKhtar 
--- Umar qad sunai jati he 
+
